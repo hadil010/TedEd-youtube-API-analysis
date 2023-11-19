@@ -1,1 +1,2 @@
 # TedEd-youtube-API-analysis
+As fan of TED-Ed, my curiosity led me to explore what makes their videos unique. Employing the Google YouTube Data API (version 3.0), I collected the metadata associated with their videos. Following this, I proceeded to preprocess the data, introducing additional features to facilitate a more in-depth analysis. Finally, I visualized the data to uncover some pretty cool insights.
